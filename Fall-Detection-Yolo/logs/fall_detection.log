@@ -1,0 +1,113 @@
+2025-03-28 11:33:15,101 - INFO - Using device: cuda
+2025-03-28 11:33:15,102 - ERROR - Error loading pose model: [Errno 2] No such file or directory: 'yolov7-w6-pose.pt'
+2025-03-28 11:38:18,138 - INFO - Using device: cuda
+2025-03-28 11:38:22,106 - INFO - Pose model loaded successfully.
+2025-03-28 11:38:22,106 - INFO - Starting Flask server on port 5000...
+2025-03-28 11:38:22,173 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.220:5000
+2025-03-28 11:38:22,173 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 11:38:22,175 - INFO -  * Restarting with stat
+2025-03-28 11:38:26,786 - INFO - Using device: cuda
+2025-03-28 11:38:28,268 - INFO - Pose model loaded successfully.
+2025-03-28 11:38:28,269 - INFO - Starting Flask server on port 5000...
+2025-03-28 11:38:28,281 - WARNING -  * Debugger is active!
+2025-03-28 11:38:28,287 - INFO -  * Debugger PIN: 884-026-840
+2025-03-28 11:59:40,293 - INFO - Using device: cuda
+2025-03-28 11:59:42,563 - INFO - Pose model loaded successfully.
+2025-03-28 11:59:42,564 - INFO - Starting Flask server on port 5000...
+2025-03-28 11:59:42,596 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.220:5000
+2025-03-28 11:59:42,596 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 11:59:42,599 - INFO -  * Restarting with stat
+2025-03-28 11:59:48,748 - INFO - Using device: cuda
+2025-03-28 11:59:50,290 - INFO - Pose model loaded successfully.
+2025-03-28 11:59:50,291 - INFO - Starting Flask server on port 5000...
+2025-03-28 11:59:50,307 - WARNING -  * Debugger is active!
+2025-03-28 11:59:50,315 - INFO -  * Debugger PIN: 884-026-840
+2025-03-28 12:01:37,462 - INFO - Using device: cuda
+2025-03-28 12:01:39,647 - INFO - Pose model loaded successfully.
+2025-03-28 12:01:39,647 - INFO - Starting Flask server on port 5000...
+2025-03-28 12:01:39,679 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.220:5000
+2025-03-28 12:01:39,679 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 12:01:39,681 - INFO -  * Restarting with stat
+2025-03-28 12:01:44,748 - INFO - Using device: cuda
+2025-03-28 12:01:46,343 - INFO - Pose model loaded successfully.
+2025-03-28 12:01:46,344 - INFO - Starting Flask server on port 5000...
+2025-03-28 12:01:46,354 - WARNING -  * Debugger is active!
+2025-03-28 12:01:46,359 - INFO -  * Debugger PIN: 884-026-840
+2025-03-28 12:05:15,280 - INFO - Using device: cuda
+2025-03-28 12:05:17,586 - INFO - Pose model loaded successfully.
+2025-03-28 12:05:17,587 - INFO - Starting Flask server on port 5000...
+2025-03-28 12:05:17,648 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.220:5000
+2025-03-28 12:05:17,649 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 12:05:17,651 - INFO -  * Restarting with stat
+2025-03-28 12:05:22,424 - INFO - Using device: cuda
+2025-03-28 12:05:23,961 - INFO - Pose model loaded successfully.
+2025-03-28 12:05:23,962 - INFO - Starting Flask server on port 5000...
+2025-03-28 12:05:23,972 - WARNING -  * Debugger is active!
+2025-03-28 12:05:23,978 - INFO -  * Debugger PIN: 884-026-840
+2025-03-28 12:13:36,109 - INFO - Using device: cuda
+2025-03-28 12:13:38,336 - INFO - Pose model loaded successfully.
+2025-03-28 12:13:38,337 - INFO - Starting Flask server on port 5000...
+2025-03-28 12:13:38,384 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.220:5000
+2025-03-28 12:13:38,385 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 12:13:38,388 - INFO -  * Restarting with stat
+2025-03-28 12:13:43,102 - INFO - Using device: cuda
+2025-03-28 12:13:44,319 - INFO - Pose model loaded successfully.
+2025-03-28 12:13:44,320 - INFO - Starting Flask server on port 5000...
+2025-03-28 12:13:44,331 - WARNING -  * Debugger is active!
+2025-03-28 12:13:44,336 - INFO -  * Debugger PIN: 884-026-840
+2025-03-28 12:14:04,294 - INFO - Received video file: video_2.mp4, saved temporarily as temp_video.mp4
+2025-03-28 12:14:23,325 - INFO - Fall detected in frame 175
+2025-03-28 12:14:23,344 - INFO - Fall detection completed. Fall detected: True
+2025-03-28 12:14:23,345 - INFO - Temporary video file temp_video.mp4 deleted successfully.
+2025-03-28 12:14:23,348 - INFO - 127.0.0.1 - - [28/Mar/2025 12:14:23] "POST /upload HTTP/1.1" 200 -
+2025-03-28 13:38:06,207 - INFO - Received video file: video (14).avi, saved temporarily as temp_video.mp4
+2025-03-28 13:38:14,975 - INFO - Fall detected in frame 89
+2025-03-28 13:38:14,976 - INFO - Fall detection completed. Fall detected: True
+2025-03-28 13:38:14,983 - INFO - Temporary video file temp_video.mp4 deleted successfully.
+2025-03-28 13:38:14,993 - INFO - 127.0.0.1 - - [28/Mar/2025 13:38:14] "POST /upload HTTP/1.1" 200 -
+2025-03-28 13:39:07,389 - INFO - Received video file: video (9).avi, saved temporarily as temp_video.mp4
+2025-03-28 13:39:10,466 - INFO - Fall detected in frame 28
+2025-03-28 13:39:10,467 - INFO - Fall detection completed. Fall detected: True
+2025-03-28 13:39:10,474 - INFO - Temporary video file temp_video.mp4 deleted successfully.
+2025-03-28 13:39:10,480 - INFO - 127.0.0.1 - - [28/Mar/2025 13:39:10] "POST /upload HTTP/1.1" 200 -
+2025-03-28 13:43:18,299 - INFO - Received video file: Running.mp4, saved temporarily as temp_video.mp4
+2025-03-28 13:43:32,945 - INFO - Fall detection completed. Fall detected: False
+2025-03-28 13:43:32,946 - INFO - Temporary video file temp_video.mp4 deleted successfully.
+2025-03-28 13:43:32,947 - INFO - 127.0.0.1 - - [28/Mar/2025 13:43:32] "POST /upload HTTP/1.1" 200 -
+2025-03-28 13:43:47,857 - INFO - Received video file: Running2.mp4, saved temporarily as temp_video.mp4
+2025-03-28 13:44:07,425 - INFO - Fall detection completed. Fall detected: False
+2025-03-28 13:44:07,426 - INFO - Temporary video file temp_video.mp4 deleted successfully.
+2025-03-28 13:44:07,427 - INFO - 127.0.0.1 - - [28/Mar/2025 13:44:07] "POST /upload HTTP/1.1" 200 -
+2025-03-28 13:44:16,280 - INFO - Received video file: Running3.mp4, saved temporarily as temp_video.mp4
+2025-03-28 13:44:40,704 - INFO - Fall detection completed. Fall detected: False
+2025-03-28 13:44:40,705 - INFO - Temporary video file temp_video.mp4 deleted successfully.
+2025-03-28 13:44:40,706 - INFO - 127.0.0.1 - - [28/Mar/2025 13:44:40] "POST /upload HTTP/1.1" 200 -
+2025-03-28 13:52:13,811 - INFO - Received video file: videoplayback.mp4, saved temporarily as temp_video.mp4
+2025-03-28 13:53:53,350 - INFO - Fall detection completed. Fall detected: False
+2025-03-28 13:53:53,351 - INFO - Temporary video file temp_video.mp4 deleted successfully.
+2025-03-28 13:53:53,353 - INFO - 127.0.0.1 - - [28/Mar/2025 13:53:53] "POST /upload HTTP/1.1" 200 -
+2025-03-28 13:55:09,113 - INFO - Received video file: video_6.mp4, saved temporarily as temp_video.mp4
+2025-03-28 13:55:23,054 - INFO - Fall detected in frame 204
+2025-03-28 13:55:23,067 - INFO - Fall detection completed. Fall detected: True
+2025-03-28 13:55:23,068 - INFO - Temporary video file temp_video.mp4 deleted successfully.
+2025-03-28 13:55:23,069 - INFO - 127.0.0.1 - - [28/Mar/2025 13:55:23] "POST /upload HTTP/1.1" 200 -
+2025-03-28 13:55:32,490 - INFO - Received video file: video (12).avi, saved temporarily as temp_video.mp4
+2025-03-28 13:55:50,873 - INFO - Fall detected in frame 209
+2025-03-28 13:55:50,873 - INFO - Fall detection completed. Fall detected: True
+2025-03-28 13:55:50,882 - INFO - Temporary video file temp_video.mp4 deleted successfully.
+2025-03-28 13:55:50,889 - INFO - 127.0.0.1 - - [28/Mar/2025 13:55:50] "POST /upload HTTP/1.1" 200 -
